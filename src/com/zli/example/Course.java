@@ -52,23 +52,23 @@ public class Course {
     String tempDay = day;
     if (tempDay.contains("Th")) {
       days.add(3);
-      tempDay.replace("Th", "");
+      tempDay = tempDay.replace("Th", "");
     }
     if (tempDay.contains("M")) {
       days.add(0);
-      tempDay.replace("M", "");
+      tempDay = tempDay.replace("M", "");
     }
     if (tempDay.contains("T")) {
       days.add(1);
-      tempDay.replace("T", "");
+      tempDay = tempDay.replace("T", "");
     }
     if (tempDay.contains("W")) {
       days.add(2);
-      tempDay.replace("W", "");
+      tempDay = tempDay.replace("W", "");
     }
     if (tempDay.contains("F")) {
       days.add(4);
-      tempDay.replace("F", "");
+      tempDay = tempDay.replace("F", "");
     }
   }
 

@@ -1,0 +1,69 @@
+CS  656 - Computer Networks
+TTh 1:00PM - 2:20PM
+PHY   150
+Raouf Boutaba
+
+CS  656 - Computer Networks
+TTh 4:00PM - 5:20PM
+PAS  1229
+Raouf Boutaba
+
+CS  658 - Computer Security and Privacy
+MW 8:30AM - 9:50AM
+RCH   305
+Sergey Gorbunov, Urs Hengartner
+
+CS  658 - Computer Security and Privacy
+MW 1:00PM - 2:20PM
+PHY   313
+Sergey Gorbunov, Urs Hengartner
+
+CS  666 - Algorithm Design and Analysis
+TTh 10:00AM - 11:20AM
+PAS  1229
+Eric Blais
+
+CS  763 - Computational Geometry
+TTh 1:00PM - 2:20PM
+DC 2568
+Anna Lubiw
+
+CS  770 - Numerical Analysis
+MW 10:00AM - 11:20AM
+RCH   212
+Jeffery Orchard
+
+CS  798 - Advanced Research Topics - Software Foundations
+W 12:00PM - 2:50PM
+TBA
+Prabhakar Ragde
+
+CS  840 - Advanced Topics in Data Structures - Time and Space Efficiency
+TTh 9:30AM - 10:50AM
+DC 2568
+Ian Munro
+
+CS  846 - Advanced Topics in Software Engineering - Software Eng. for Big Data
+TTh 4:00PM - 5:20PM
+DC 2568
+Paulo Alencar
+
+CS  848 - Advanced Topics in Data Bases - Large Scale Data Management
+Th 1:00PM - 3:50PM
+TBA
+Khuzaima Daudjee
+
+CS  854 - Advanced Topics in Computer Systems - Consensus Protocols
+F 3:00PM - 5:50PM
+DC 2568
+Bernard Wong
+
+CS  858 - Advanced Topics in Cryptography, Security and Privacy - Computing on Encrypted Data
+F 11:00AM - 1:50PM
+TBA
+Sergey Gorbunov
+
+CS  858 - Advanced Topics in Cryptography, Security and Privacy - Mobile Privacy & Security
+MW 3:00PM - 4:20PM
+DC 2568
+Urs Hengartner
